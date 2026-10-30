@@ -12,21 +12,18 @@ An interactive and responsive **Quiz Application** built with **HTML, CSS, and J
 
 ## 📸 Screenshots
 
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
 ### Quiz Interface
 
-![Quiz Interface](./screenshots/quiz.png)
+<img width="1911" height="866" alt="Screenshot 2026-10-30 184739" src="https://github.com/user-attachments/assets/a40b53f1-e69a-41f3-a084-c133398bd0b4" />
+
 
 ### Result Page
+<img width="1913" height="862" alt="Screenshot 2026-10-30 184827" src="https://github.com/user-attachments/assets/c5a0b00d-7987-483e-a0b3-a582434791cb" />
 
-![Result Page](./screenshots/result.png)
 
 ### Answer Review
+<img width="1916" height="868" alt="Screenshot 2026-10-30 184848" src="https://github.com/user-attachments/assets/73539abd-e775-4007-b511-e3b08c5107e1" />
 
-![Answer Review](./screenshots/answers.png)
 
 ---
 
